@@ -1,2 +1,5 @@
 # OrnamentandCrime
-OrnamentandCrime - Workshop and additional documentation
+
+Presentation materials and additional documentation for the Ornament and Crime workshop
+
+
